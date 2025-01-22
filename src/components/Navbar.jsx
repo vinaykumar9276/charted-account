@@ -13,7 +13,7 @@ const Navbar = () => {
             <div className="container mx-auto flex items-center lg:justify-around sm:justify-between px-6 py-5">
                 {/* Brand Name */}
                 <NavLink className="text-lg font-semibold" to="/">
-                    CA-Landing-Page
+                    Charted Account
                 </NavLink>
 
                 {/* Hamburger Menu (Mobile) */}
